@@ -1,0 +1,1 @@
+include ':app', ':custom_annotation', ':custom_annotation_compiler', ':custom_annotation_lib'
